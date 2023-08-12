@@ -5,6 +5,36 @@ touch input.csv
 
 # declare an array of urls
 urls=(
+ https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/filters.min.txt
+  https://curbengh.github.io/malware-filter/urlhaus-filter-online.txt
+  https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
+  https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt
+  https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/antiadblock.txt
+  https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt
+  https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/specific.txt
+  https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/UsefulAdsFilter/sections/usefulads.txt
+  https://easylist.to/easylist/easylist.txt
+  https://easylist.to/easylist/easyprivacy.txt
+  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
+  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-mobile.txt
+  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
+  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
+  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2022.txt
+  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt
+  https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+  https://www.spamhaus.org/statistics/tlds/
+  https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
+  https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+  https://raw.githubusercontent.com/LennyFox/Blocklists/master/Block_non_latin_TLDs.txt
+  https://raw.githubusercontent.com/nmtrung/FMSF-2.0/master/fmsf_2.0.txt
+  https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/wildcard.txt
+  https://abpvn.com/filter/abpvn-7KqAID.txt
+  https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
   https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/doh/doh_adblock.txt
   https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/doh/doh_gambling.txt
   https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/doh/doh_privacy.txt
