@@ -13,7 +13,6 @@ urls=(
   https://ublockorigin.pages.dev/filters/unbreak.min.txt
   https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/thirdparties/easylist.txt
   https://ublockorigin.pages.dev/thirdparties/easyprivacy.txt
-  https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
   https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
   https://raw.githubusercontent.com/LennyFox/Blocklists/master/Block_non_latin_TLDs.txt
