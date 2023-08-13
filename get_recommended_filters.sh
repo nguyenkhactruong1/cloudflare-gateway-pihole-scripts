@@ -7,23 +7,13 @@ touch input.csv
 urls=(
   https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/filters.min.txt
   https://curbengh.github.io/malware-filter/urlhaus-filter-online.txt
-  https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
-  https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt
-  https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/antiadblock.txt
-  https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/specific.txt
-  https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/UsefulAdsFilter/sections/usefulads.txt
-  https://easylist.to/easylist/easylist.txt
-  https://easylist.to/easylist/easyprivacy.txt
-  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
-  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
-  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
-  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
-  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-mobile.txt
-  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
-  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
-  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
-  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2022.txt
-  https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt
+  https://ublockorigin.pages.dev/filters/badware.txt
+  https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/privacy.min.txt
+  https://ublockorigin.pages.dev/filters/quick-fixes.txt
+  https://ublockorigin.pages.dev/filters/unbreak.min.txt
+  https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/thirdparties/easylist.txt
+  https://ublockorigin.pages.dev/thirdparties/easyprivacy.txt
+  https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
   https://www.spamhaus.org/statistics/tlds/
   https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
