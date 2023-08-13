@@ -6,7 +6,6 @@ touch input.csv
 # declare an array of urls
 urls=(
   https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/filters.min.txt
-  https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext&_=2
   https://curbengh.github.io/malware-filter/urlhaus-filter-online.txt
   https://ublockorigin.pages.dev/filters/badware.txt
   https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/privacy.min.txt
