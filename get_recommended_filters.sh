@@ -15,9 +15,7 @@ urls=(
   https://ublockorigin.pages.dev/thirdparties/easyprivacy.txt
   https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
-  https://www.spamhaus.org/statistics/tlds/
   https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
-  https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
   https://raw.githubusercontent.com/LennyFox/Blocklists/master/Block_non_latin_TLDs.txt
   https://raw.githubusercontent.com/nmtrung/FMSF-2.0/master/fmsf_2.0.txt
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/wildcard.txt
